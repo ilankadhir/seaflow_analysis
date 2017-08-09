@@ -2,7 +2,7 @@
 
 ## SeaFlow Environmental Flow Cytometry
 
-_This exercise is a part of UW Data Science Specialization assignment__
+_This exercise is part of UW Data Science Specialization assignment on Coursera_
 
 A flow cytometer delivers a flow of particles through capilliary. By shining lasers of different wavelengths and measuring the absorption and refraction patterns, you can determine how large the particle is and some information about its color and other properties, allowing you to detect it.
 
